@@ -151,7 +151,7 @@ const expCards = [
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
     title: "Frontend Developer",
-    date: "January 2023 - Present",
+    date: "January 2024 - Nov 2025",
     responsibilities: [
       "Developed and maintained user-facing features for the Crucial Tools website.",
       "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
@@ -163,9 +163,12 @@ const expCards = [
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
     title: "Full Stack Developer (Freelancing)",
-    date: "June 2020 - December 2023",
+    date: "June 2023 - December 2023",
     responsibilities: [
-      "Designed and developed Gamers Arena's complete e-commerce platform from scratch, focusing on performance and user experience.",
+      "Designed and developed Gamers Arena's compl\n" +
+      "    logoPath: \"/images/logo3.png\",\n" +
+      "    title: \"React Native Developer\",\n" +
+      "    date: \"March 2024 - Nov 2024ete e-commerce platform from scratch, focusing on performance and user experience.",
       "Integrated payment gateways, inventory management APIs, and shopping cart functionality for seamless transactions.",
       "Implemented responsive design and optimized page load speeds, resulting in improved conversion rates and customer satisfaction.",
     ],
@@ -173,9 +176,6 @@ const expCards = [
   {
     review: "\"Zach reached out to The Nairobi Hospital with AfyaPulse, a patient appointment booking solution that directly addresses our scheduling challenges. His demo and user guide clearly showed us what the system could do, and we were impressed. The interface is clean and intuitive, easy for patients to use while giving our medical staff the tools they need to manage appointments efficiently. What really stood out was how the system captures the most relevant patient information, ensuring appointments are scheduled appropriately and our physicians come prepared. We're exploring integration options and genuinely believe AfyaPulse could enhance both patient satisfaction and our operational workflow.\"",
     imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
     responsibilities: [
       "Designed and developed AfyaPulse from the ground up using Next.js and TypeScript, creating a scalable, type-safe patient appointment booking system with modern web standards.",
       "Leveraged Appwrite's backend services to handle user authentication, database operations, and file storage, ensuring secure management of sensitive patient health information and appointment data.",
