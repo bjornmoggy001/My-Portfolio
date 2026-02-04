@@ -311,8 +311,8 @@ const myProjects = [
       },
     ],
     image: "/images/project3.png",
-    source_code_link: "https://github.com/yourusername/vixa",
-    live_link: "https://vixa-demo.vercel.app",
+    source_code_link: "https://github.com/bjornmoggy001/Vixa",
+    live_link: "https://vixa-ai.vercel.app",
   },
 
   {
@@ -339,7 +339,7 @@ const myProjects = [
     ],
     image: "/images/project2.png",
     source_code_link: "https://github.com/bjornmoggy001/AfyaPulse",
-    live_link: "https://afyapulse.vercel.app",
+    live_link: "https://afya-pulse-healthcare.vercel.app",
   },
   {
     name: "Horizon Bank",
@@ -390,8 +390,8 @@ const myProjects = [
       },
     ],
     image: "/images/project6.png",
-    source_code_link: "https://github.com/yourusername/vixa",
-    live_link: "https://vixa-demo.vercel.app",
+    source_code_link: "https://github.com/bjornmoggy001/vixa",
+    live_link: "https://gamers-arena.vercel.app",
   },
 
 
